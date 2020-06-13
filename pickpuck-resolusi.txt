@@ -4,3 +4,4 @@ pickpuck resolusi
 - Belajar Pyhton
 - Belajar PHP
 - Belajar Database
+- Belajar Koneksi
